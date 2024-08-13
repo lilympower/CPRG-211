@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E657C0F-C4CB-45C8-A873-0E45AA80AD9F}|CPRG211 Final\\CPRG211 Final.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\cprg211 final\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E657C0F-C4CB-45C8-A873-0E45AA80AD9F}|CPRG211 Final\\CPRG211 Final.csproj|solutionrelative:cprg211 final\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarybll\\services\\dvdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|solutionrelative:librarybll\\services\\dvdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarybll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|solutionrelative:librarybll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarybll\\interfaces\\ivideogameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|solutionrelative:librarybll\\interfaces\\ivideogameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarybll\\interfaces\\idvdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|solutionrelative:librarybll\\interfaces\\idvdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E657C0F-C4CB-45C8-A873-0E45AA80AD9F}|CPRG211 Final\\CPRG211 Final.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\cprg211 final\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E657C0F-C4CB-45C8-A873-0E45AA80AD9F}|CPRG211 Final\\CPRG211 Final.csproj|solutionrelative:cprg211 final\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarybll\\services\\videogameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|solutionrelative:librarybll\\services\\videogameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarybll\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD7DB91-C1B9-4FA4-B4BA-7BDDAA713E30}|LibraryBLL\\LibraryBLL.csproj|solutionrelative:librarybll\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarydal\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarydal\\repositories\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\repositories\\videogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarydal\\repositories\\dvdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\repositories\\dvdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarydal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1CEA1E-B237-4301-9E07-9292D4CDD226}|CPRG211 Final Library\\LibraryModels.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\cprg211 final library\\entities\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1CEA1E-B237-4301-9E07-9292D4CDD226}|CPRG211 Final Library\\LibraryModels.csproj|solutionrelative:cprg211 final library\\entities\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarydal\\interfaces\\ivideogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\interfaces\\ivideogamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1CEA1E-B237-4301-9E07-9292D4CDD226}|CPRG211 Final Library\\LibraryModels.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\cprg211 final library\\abstracts\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1CEA1E-B237-4301-9E07-9292D4CDD226}|CPRG211 Final Library\\LibraryModels.csproj|solutionrelative:cprg211 final library\\abstracts\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarydal\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1CEA1E-B237-4301-9E07-9292D4CDD226}|CPRG211 Final Library\\LibraryModels.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\cprg211 final library\\entities\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1CEA1E-B237-4301-9E07-9292D4CDD226}|CPRG211 Final Library\\LibraryModels.csproj|solutionrelative:cprg211 final library\\entities\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarydal\\interfaces\\idvdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\interfaces\\idvdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|c:\\users\\lilyr\\source\\repos\\cprg211 final\\librarydal\\librarydal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C50CE2EC-0781-47E4-804B-553EDF13ABFA}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\librarydal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "CPRG211 Final\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "CPRG211 Final\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T04:04:41.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VideogameService.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Services\\VideogameService.cs",
+              "RelativeDocumentMoniker": "LibraryBLL\\Services\\VideogameService.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Services\\VideogameService.cs",
+              "RelativeToolTip": "LibraryBLL\\Services\\VideogameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:02:12.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DVDService.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Services\\DVDService.cs",
+              "RelativeDocumentMoniker": "LibraryBLL\\Services\\DVDService.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Services\\DVDService.cs",
+              "RelativeToolTip": "LibraryBLL\\Services\\DVDService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:00:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVideogameService.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Interfaces\\IVideogameService.cs",
+              "RelativeDocumentMoniker": "LibraryBLL\\Interfaces\\IVideogameService.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Interfaces\\IVideogameService.cs",
+              "RelativeToolTip": "LibraryBLL\\Interfaces\\IVideogameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:40:27.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDVDService.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Interfaces\\IDVDService.cs",
+              "RelativeDocumentMoniker": "LibraryBLL\\Interfaces\\IDVDService.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Interfaces\\IDVDService.cs",
+              "RelativeToolTip": "LibraryBLL\\Interfaces\\IDVDService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:40:06.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryBLL\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryBLL\\Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:37:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryBLL\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryBLL\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LibraryBLL\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:28:03.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VideogameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Repositories\\VideogameRepository.cs",
+              "RelativeDocumentMoniker": "LibraryDAL\\Repositories\\VideogameRepository.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Repositories\\VideogameRepository.cs",
+              "RelativeToolTip": "LibraryDAL\\Repositories\\VideogameRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:14:31.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DVDRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Repositories\\DVDRepository.cs",
+              "RelativeDocumentMoniker": "LibraryDAL\\Repositories\\DVDRepository.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Repositories\\DVDRepository.cs",
+              "RelativeToolTip": "LibraryDAL\\Repositories\\DVDRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:48:52.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryDAL\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryDAL\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T23:19:53.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final Library\\Abstracts\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "CPRG211 Final Library\\Abstracts\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final Library\\Abstracts\\LibraryItem.cs",
+              "RelativeToolTip": "CPRG211 Final Library\\Abstracts\\LibraryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:47:38.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "CPRG211 Final\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "CPRG211 Final\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:40:49.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final Library\\Entities\\DVD.cs",
+              "RelativeDocumentMoniker": "CPRG211 Final Library\\Entities\\DVD.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final Library\\Entities\\DVD.cs",
+              "RelativeToolTip": "CPRG211 Final Library\\Entities\\DVD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:50:32.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVideogameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Interfaces\\IVideogameRepository.cs",
+              "RelativeDocumentMoniker": "LibraryDAL\\Interfaces\\IVideogameRepository.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Interfaces\\IVideogameRepository.cs",
+              "RelativeToolTip": "LibraryDAL\\Interfaces\\IVideogameRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:48:21.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDVDRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Interfaces\\IDVDRepository.cs",
+              "RelativeDocumentMoniker": "LibraryDAL\\Interfaces\\IDVDRepository.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Interfaces\\IDVDRepository.cs",
+              "RelativeToolTip": "LibraryDAL\\Interfaces\\IDVDRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:45:22.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryDAL\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryDAL\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:43:55.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Videogame.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final Library\\Entities\\Videogame.cs",
+              "RelativeDocumentMoniker": "CPRG211 Final Library\\Entities\\Videogame.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final Library\\Entities\\Videogame.cs",
+              "RelativeToolTip": "CPRG211 Final Library\\Entities\\Videogame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:51:41.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryDAL\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryDAL\\Data\\LibraryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:34:38.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibraryDAL.csproj",
+              "DocumentMoniker": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\LibraryDAL.csproj",
+              "RelativeDocumentMoniker": "LibraryDAL\\LibraryDAL.csproj",
+              "ToolTip": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\LibraryDAL\\LibraryDAL.csproj",
+              "RelativeToolTip": "LibraryDAL\\LibraryDAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T23:21:02.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using CPRG211_Final_Library.Abstracts;
+
+namespace CPRG211_Final_Library.Entities
+{
+    public class DVD : LibraryItem
+    {
+        public int Duration { get; set; }
+        public bool Borrowed { get; set; }
+       
+    }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CPRG211 Final.props" />
+</Project>

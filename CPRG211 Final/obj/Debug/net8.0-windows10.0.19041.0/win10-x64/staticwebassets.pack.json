@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\CPRG211 Final.styles.css",
+      "PackagePath": "staticwebassets\\CPRG211 Final.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\lilyr\\source\\repos\\CPRG211 Final\\CPRG211 Final\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.CPRG211 Final.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.CPRG211 Final.props",
+      "PackagePath": "build\\CPRG211 Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.CPRG211 Final.props",
+      "PackagePath": "buildMultiTargeting\\CPRG211 Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.CPRG211 Final.props",
+      "PackagePath": "buildTransitive\\CPRG211 Final.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
